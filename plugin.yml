@@ -1,0 +1,4 @@
+name: OpMobs
+prefix: OpMobs
+main: com.magdy.DumbPlugin
+version: "1.0"
